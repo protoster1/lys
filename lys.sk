@@ -1,0 +1,3 @@
+on death:
+    if victim is "fatcat75_":
+        keep inventory 
